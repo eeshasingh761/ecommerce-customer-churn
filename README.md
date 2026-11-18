@@ -101,11 +101,11 @@ Open churn_analysis_Report.pbix in Power BI Desktop to interact with the visuali
 ---
 
 ## 🤝 Contact & Connect
-* **Author:** Shishir Salunkhe
+* **Author:** Eesha Singh
 
 * **LinkedIn:** Your LinkedIn Profile
 
-* **GitHub:** @shishirsalunkhe
+* **GitHub:** @eeshasingh761
 
 ---
 
